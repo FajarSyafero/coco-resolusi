@@ -2,8 +2,10 @@ Rencana coco wpu
 - pace 4
  * saya ingin lari perkilo dengan waktu 4 menit
  * beli sepatu carbon
-  ^ hoka
-  ^ adidas
+   ^ nike
+   ^ adidas
 - gym
   ^ osbond
+- konsisten 
 - 60kg
+- susu whey 
