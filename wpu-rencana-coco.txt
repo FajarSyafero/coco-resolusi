@@ -3,6 +3,7 @@ Rencana coco wpu
  * saya ingin lari perkilo dengan waktu 4 menit
  * beli sepatu carbon
    ^ nike
+   ^ adidas
 - gym
   ^ osbond
 - konsisten 
